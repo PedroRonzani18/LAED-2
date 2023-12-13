@@ -1,0 +1,32 @@
+Algoritmo Guloso caso 1
+Tempo mínimo: 77
+
+Caminho: 
+
+1 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1
+
+
+Programação Dinamica caso 1
+Tempo mínimo: 69
+
+Caminho: 
+
+2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 1 -> 1 -> 1 -> 1
+
+
+Algoritmo Guloso caso 2
+Tempo mínimo: 69
+
+Caminho: 
+
+1 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2
+
+
+Programação Dinamica caso 2
+Tempo mínimo: 69
+
+Caminho: 
+
+2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2
+
+
